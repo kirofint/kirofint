@@ -8,4 +8,6 @@
   Listening for Spotify
   <img src="https://media.giphy.com/media/eHABhT7ESge27w2T6Z/giphy.gif" width="50"> 
 </h2>
-<img src="https://kirofint.vercel.app/api/spotify" alt="kirofint's spotify" width="350" />
+<a href="https://open.spotify.com/user/dvqq4wj4x03pnckc53k9sjvnr?si=4dwMNiBfRq2oZ1gdHEAX2g">
+ <img src="https://kirofint.vercel.app/api/spotify" alt="kirofint's spotify" width="350" />
+</a>
